@@ -7,5 +7,8 @@ public class Hello{
 			System.out.println(i);
 		}
 
+		System.out.println("loop added");
+
+
 	}
 }
